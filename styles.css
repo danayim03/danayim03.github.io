@@ -160,3 +160,28 @@ table.work-experience th {
     color: #FF6600;
     font-weight: bold;
 }
+
+.video {
+    margin-top: 20px;
+    text-align: center;
+}
+
+.github-link {
+    color: #FF6600; 
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 1rem; 
+    transition: color 0.3s ease, text-decoration 0.3s ease; 
+}
+
+.github-link:hover {
+    color: black; 
+}
+
+
+.orange-border {
+    padding: 20px; 
+    margin: 20px auto; 
+    max-width: 600px; 
+    background-color: #FF6600;
+}
